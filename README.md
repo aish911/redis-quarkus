@@ -1,5 +1,7 @@
 [# redis-quarkus](https://quarkus.io/guides/redis-reference)
 
+https://quarkus.io/guides/redis
+
 If connecting with azure redis :
 
 quarkus:
